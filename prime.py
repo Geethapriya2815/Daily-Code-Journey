@@ -4,4 +4,7 @@ def isPrime(n):
     if n % 1==0:
       return n
   return 1    
+isPrime(7)  
+  
+  
   
