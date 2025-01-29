@@ -1,5 +1,4 @@
-class Solution:
-    def peakElement(self, arr):
+  def peakElement(self, arr):
         n = len(arr)
         low, high = 0, n - 1
 
