@@ -49,7 +49,7 @@ I am progressing from basic programming fundamentals to mastering advanced conce
 
 ## 💻 Technologies Used
 
-- **Programming Languages**: Python, Java, C++
+- **Programming Languages**: Python
 - **Algorithms**: DSA algorithms implemented in the respective languages.
 - **Tools**: Git, GitHub, VS Code, Jupyter Notebook
 
