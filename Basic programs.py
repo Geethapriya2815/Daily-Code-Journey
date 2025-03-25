@@ -2,7 +2,7 @@
 def check_vowel_consonant(ch):
     vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
     if ch in vowels:
-        return "Vowel"
+        return "Vowel "
     return "Consonant"
 
 def find_biggest(a, b):
